@@ -48,19 +48,19 @@ li.L9 {
   /* comment */
 
   .com {
-    color: #969896;
+    color: #990000;
   }
 
   /* type name */
 
   .typ {
-    color: #0086b3;
+    color: #333;
   }
 
   /* literal value */
 
   .lit {
-    color: #0086b3;
+    color: #333;
   }
 
   /* punctuation */
