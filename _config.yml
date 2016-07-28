@@ -34,10 +34,10 @@ menu:
 
 # 颜色配置
 color:
-  header: grey
-  footer: grey
-  page_nav: grey
-  side_nav: grey darken-1
+  header: grey darken-3
+  footer: grey darken-3
+  page_nav: grey lighten-1
+  side_nav: grey darken-2
   tag: pink lighten-1
   article_title_link: indigo
   link: blue
